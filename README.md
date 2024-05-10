@@ -17,9 +17,8 @@
   	
 5)	Stop the program.
 # PROGRAM:
-NAME: Bharathi priyan T.
-
-REGISTER NUMBER:212221040028
+NAME: Mohanish K
+REGISTER NUMBER: 212222100028
 ```
 #include <stdio.h>
 #include <ctype.h>
